@@ -8,7 +8,7 @@
 
 # Questions an audience can put to work.
 
-I speak on the conditions between technical success and practical use, drawing on engineering, energy, organizational choices, and research on adoption.
+My speaking topics connect technical success with practical use, drawing on industrial engineering leadership, spaceflight hardware development, biomedical commercialization, and doctoral research on bio-based diesel and market adoption.
 
 ## Engineering the Decision
 
@@ -31,3 +31,9 @@ The timing of emissions reductions matters. This session considers how infrastru
 ## Formats
 
 A focused talk, a session with questions, or a workshop can be adapted to the audience’s decision. For an inquiry, include the audience, purpose, preferred format, timing, and the question you want participants to examine.
+
+## Speaker biography
+
+Dr. Alan Chmiel is an Executive Team Member and Vice President of Engineering at R.W. Beckett Corporation and an Adjunct Associate Professor at Ashland University. His career includes senior engineering leadership at ZIN Technologies and biomedical development at FlexLife Health. He holds a DBA from the University of Pittsburgh, where his research examined bio-based diesel and carbon mitigation, an MBA from the University of Wyoming, and a bachelor’s degree in electrical engineering from the University of Pittsburgh. His work connects engineering, economics, and human behavior to consequential decisions.
+
+[Full curriculum vitae](/cv/)

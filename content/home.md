@@ -32,6 +32,8 @@ Human behavior shapes what people choose and use: risk, habits, trust, and organ
 
 ## Experience meets inquiry.
 
-My perspective connects engineering leadership, entrepreneurship, research, and teaching. I bring an engineer’s understanding of systems and a scholar’s attention to markets and behavior to the same question: **what should we do next?**
+My experience spans engineering leadership at R.W. Beckett, aerospace leadership at ZIN Technologies, biomedical development at FlexLife Health, and university teaching. My doctoral research at the University of Pittsburgh connects energy technology with market adoption.
+
+I bring these perspectives to the same question: **what should we do next?**
 
 [Read my background](/about/)

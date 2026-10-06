@@ -8,7 +8,25 @@
 
 # Learn the model. Then examine the decision.
 
-My teaching connects engineering, economics, technology, and organizational choices. Students begin with the people affected, the constraints they face, and the uncertainty surrounding the decision.
+My teaching connects analytical methods to the decisions people and organizations face. Students begin with the problem, the people affected, the constraints they face, and the uncertainty surrounding the recommendation.
+
+## Ashland University
+
+**Adjunct Associate Professor, Dauch College of Business and Economics**  
+January 2026–present
+
+I teach and design classes in economics and commerce, bringing executive and engineering experience into discussions of markets, organizations, and practical decisions.
+
+## Lorain County Community College
+
+**Data Analytics curriculum**  
+January 2020–December 2025
+
+I designed hybrid and competency-based education courses in the Division of Engineering, Business and Information Technologies:
+
+- **DATA 101 — Introduction to Data Analytics:** foundations for interpreting data and framing analytical questions.
+- **DATA 210 — Big Data Analytics in R and Spark:** methods and tools for working with larger analytical problems.
+- **DATA 222 — Machine Learning:** approaches to learning from data and assessing model usefulness.
 
 ## A recurring approach
 
@@ -18,12 +36,10 @@ My teaching connects engineering, economics, technology, and organizational choi
 4. Examine the assumptions about adoption and use.
 5. Make a recommendation and explain what would change it.
 
-## Areas of teaching
-
-My teaching experience includes artificial intelligence and management information systems. Topics connect technology to implementation, organizational routines, incentives, and accountability.
-
 ## From an answer to an argument
 
-A useful assignment asks students to compare a technically feasible solution with the economic and behavioral conditions needed for it to succeed. The final recommendation should identify assumptions, limits, and evidence to collect next.
+Experience with resource planning, risk analysis, biomedical development, and energy technology provides cases in which an analytical answer must survive practical constraints.
 
-The aim is judgment: knowing what a model explains, where it is incomplete, and how to act responsibly under uncertainty.
+The aim is judgment: understanding what a model explains, where it is incomplete, and how to act under uncertainty.
+
+[Academic appointments and credentials](/cv/)

@@ -37,11 +37,9 @@
   "notFoundTitle": "This page could not be found",
   "notFoundText": "Return to the homepage to explore the site.",
   "contactLabel": "Get in touch",
-  "contactUrl": "",
-  "contactText": "For speaking, teaching, or research conversations, connect with me through my professional profile.",
-  "contactFallback": "https://www.linkedin.com/search/results/people/?keywords=Alan%20Chmiel",
-  "contactButton": "Find Alan on LinkedIn"
+  "contactUrl": "https://www.linkedin.com/in/alan-chmiel-444763a/",
+  "contactText": "For speaking, teaching, or research conversations, connect with me on LinkedIn.",
+  "contactFallback": "https://www.linkedin.com/in/alan-chmiel-444763a/",
+  "contactButton": "Find Alan on Linked"
 }
 ---
-
-

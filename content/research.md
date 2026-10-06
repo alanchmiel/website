@@ -8,28 +8,38 @@
 
 # The conditions between an idea and its use.
 
-My research interests center on renewable liquid fuels, energy transition, consumer choice, and the economic conditions that shape adoption.
+My research connects technical systems with markets and adoption. My background includes renewable liquid fuel economics, biomedical monitoring, instrumentation, and spaceflight hardware.
 
-## Renewable liquid fuels
+## Doctoral research
 
-Renewable liquid fuels offer a way to examine the relationship between existing infrastructure and near-term emissions reductions. My doctoral work explores their economics, including the incentives and constraints affecting their use.
+**Bridging Technologies and Market Adoption: The Role of Bio-Based Diesel in Carbon Mitigation**
 
-Questions include how policy signals enter market prices, how infrastructure affects the costs of transition, and how households evaluate changes to familiar systems.
+Doctor of Business Administration, University of Pittsburgh, Katz Graduate School of Business. Committee chair: J. Jeffery Inman.
 
-## Timing and the time value of carbon
+This work provides the foundation for my interest in how energy technology, economic conditions, and adoption interact. The practical questions include what existing infrastructure makes possible, which incentives shape the decision, and how the timing of change affects its consequences.
 
-An emissions reduction today and a reduction years from now have different cumulative consequences. Evaluating a transition requires attention to timing as well as the eventual destination.
+## Engineering research and publications
 
-I am interested in how near-term options can complement longer-term changes, and how comparisons account for infrastructure, deployment speed, and adoption.
+My publication record includes work on space radiation effects, triaxial acceleration sensing, and lightweight temperature sensing for cryogenic propellants:
 
-## Consumer choice and visibility
+- “Mobile Router Technology Investigated for Space Radiation Effects.” *NASA-GRC Research and Technology Report*, pp. 26–27; NASA/TM 2006-214016, 2006.
+- “Updated Space Acceleration Measurement System Triaxial Sensor: Design and Performance Characteristics.” AIAA 2003-1003, January 2003.
+- “Ultra Lightweight Flexible Sensing Probe Technology for Cryogenic Propellants.” AIAA 2000-3793, August 2000.
 
-What people recall, notice, and perceive as risky can influence their choices. A technically capable solution may be difficult to observe, while a more visible change can carry signaling value.
+## Biomedical technology
 
-These questions connect economic modeling with behavioral explanations of adoption.
+At FlexLife Health, I led engineering for a patented biomedical monitor, served as principal investigator on technology development grants, and managed clinical trials in the United States and Europe. The work connected sensing technology to clinical validation, manufacturing, and remote patient management.
 
-## Research conversations
+My patent portfolio includes biometric monitoring, patient care management, machine-readable biometric data, data acquisition, transfer function control, and a flexible temperature sensing probe.
 
-I welcome discussions about renewable fuel economics, technology adoption, and interdisciplinary approaches to energy transition.
+## Current lines of inquiry
 
-[Background and credentials](/about/)
+**Technology and adoption:** What conditions connect technical capability to practical use?
+
+**Energy transition:** How should infrastructure, costs, incentives, and the timing of carbon mitigation enter a decision?
+
+**Models and judgment:** How can analytical methods and experience challenge each other productively?
+
+These are organizing questions for my ongoing analysis and writing, rather than claims of findings from the publications listed above.
+
+[Publication details and patent numbers](/cv/)

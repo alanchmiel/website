@@ -8,24 +8,38 @@
 
 # Working across the boundaries of a decision.
 
-I am Dr. Alan Chmiel, an engineer, executive, researcher, and educator based in Avon Lake, Ohio. My work examines how technical systems, economic conditions, and human behavior shape strategic choices.
+I am Dr. Alan Chmiel, an engineer, executive, researcher, and educator based in Avon Lake, Ohio. My career connects industrial leadership, spaceflight hardware, medical technology, and research on energy and market adoption.
 
-## A perspective built in practice
+## Engineering leadership and industrial strategy
 
-I serve as Vice President of Engineering and Quality at R.W. Beckett Corporation. My background also includes aerospace leadership and medical device entrepreneurship. Across these settings, I have worked where reliability, innovation, and consequential decisions meet.
+Since January 2020, I have served as an Executive Team Member and Vice President of Engineering at R.W. Beckett Corporation. My responsibilities include engineering, innovation, quality, and mergers and acquisitions, supporting operations in North America and Europe.
 
-## Education
+That work includes leading multidisciplinary engineering teams, managing new product development processes, and supporting acquisition strategy, due diligence, risk mitigation, and integration.
 
-- **Doctor of Business Administration**, University of Pittsburgh, Katz Graduate School of Business
-- **Master of Business Administration**, University of Wyoming
-- **Bachelor of Science in Electrical Engineering**, University of Pittsburgh
+## Aerospace and medical technology
 
-My doctoral research focused on the economics of renewable liquid fuels. That work informs a broader interest in technology adoption, incentives, and the timing of energy transition.
+As Senior Vice President of Engineering at ZIN Technologies, I led functions spanning engineering, design, manufacturing, planning, configuration management, and data analytics. I introduced analytical approaches to resource planning and risk assessment, including Monte Carlo, binomial, and Bayesian techniques.
 
-## The question behind the work
+At FlexLife Health, I served as Principal and Vice President, leading engineering for a patented biomedical monitor and managing clinical trials in the United States and Europe. My work also included grants, manufacturing, a cloud-based remote patient management system, and business development. The company was acquired by a multinational medical services company in 2015.
 
-Engineering tells us what is possible. Economics helps establish what is viable. Human behavior influences what is adopted. I use **Engineering the Decision** as an organizing lens for bringing those questions together.
+Across my career, I have supported hardware development for programs including the International Space Station, Euclid, MMS, DART, InSight, and Psyche, in roles ranging from design engineering to project and program management.
 
-I value arguments that make their assumptions visible, connect conclusions to evidence, and explain what would change the recommendation.
+## Scholarship and teaching
 
-[View a printable professional profile](/cv/)
+I hold a Doctor of Business Administration from the University of Pittsburgh’s Katz Graduate School of Business, an MBA from the University of Wyoming, and a bachelor’s degree in electrical engineering from the University of Pittsburgh.
+
+My doctoral research, *Bridging Technologies and Market Adoption: The Role of Bio-Based Diesel in Carbon Mitigation*, examines the relationship between technology, markets, and energy transition.
+
+I am an Adjunct Associate Professor in Ashland University’s Dauch College of Business and Economics. Previously, at Lorain County Community College, I designed hybrid and competency-based courses in data analytics, big data analytics in R and Spark, and machine learning.
+
+## Governance and community
+
+Avon Lake has been my family’s home for thirty years. My board service includes the Northern Ohio Youth Orchestra and the National Oilheat Research Alliance. I also participate in ASHRAE’s fuels technical committee and the National Energy and Fuels Institute’s Northeast Working Group.
+
+These experiences reinforce the importance of preparation, listening, respectful disagreement, and explaining complicated decisions clearly.
+
+## Engineering the Decision
+
+Technical feasibility, economics, risk, public policy, stakeholder interests, and long-term consequences often point in different directions. I begin by establishing the facts, questioning assumptions, and making tradeoffs explicit. A recommendation should explain what supports it and what would change it.
+
+[View my curriculum vitae](/cv/)
