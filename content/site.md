@@ -18,7 +18,7 @@
     {
       "label": "About",
       "href": "/about/"
-    },
+    }
   ],
   "homeLabel": "Home",
   "skipLabel": "Skip to content",
