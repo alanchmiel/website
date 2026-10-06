@@ -1,0 +1,47 @@
+---
+{
+  "name": "Dr. Alan Chmiel",
+  "description": "Engineering, economics, and human behavior. Essays, research, and teaching on how consequential decisions take shape.",
+  "nav": [
+    {
+      "label": "Ideas",
+      "href": "/ideas/"
+    },
+    {
+      "label": "Research",
+      "href": "/research/"
+    },
+    {
+      "label": "Teaching",
+      "href": "/teaching/"
+    },
+    {
+      "label": "About",
+      "href": "/about/"
+    },
+    {
+      "label": "Speaking",
+      "href": "/speaking/"
+    }
+  ],
+  "homeLabel": "Home",
+  "skipLabel": "Skip to content",
+  "menuLabel": "Menu",
+  "closeMenuLabel": "Close menu",
+  "footerTitle": "Engineering the Decision",
+  "footerNote": "Personal writing and analysis. Views expressed are my own.",
+  "copyright": "© 2026 Dr. Alan Chmiel",
+  "ideasLabel": "Selected ideas",
+  "readLabel": "Read essay",
+  "backLabel": "All ideas",
+  "notFoundTitle": "This page could not be found",
+  "notFoundText": "Return to the homepage to explore the site.",
+  "contactLabel": "Get in touch",
+  "contactUrl": "",
+  "contactText": "For speaking, teaching, or research conversations, connect with me through my professional profile.",
+  "contactFallback": "https://www.linkedin.com/search/results/people/?keywords=Alan%20Chmiel",
+  "contactButton": "Find Alan on LinkedIn"
+}
+---
+
+
