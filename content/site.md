@@ -19,10 +19,6 @@
       "label": "About",
       "href": "/about/"
     },
-    {
-      "label": "Speaking",
-      "href": "/speaking/"
-    }
   ],
   "homeLabel": "Home",
   "skipLabel": "Skip to content",
