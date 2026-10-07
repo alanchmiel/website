@@ -6,7 +6,7 @@
 }
 ---
 
-# Dr. Alan Chmiel, DBA, PMP
+# Dr. Alan Chmiel
 
 **Engineering • Economics • Strategy**  
 Avon Lake, Ohio
@@ -16,7 +16,7 @@ Avon Lake, Ohio
 ### R.W. Beckett Corporation
 
 **Executive Team Member and Vice President of Engineering**  
-North Ridgeville, Ohio · January 2020–present
+North Ridgeville, Ohio · present
 
 Accountable to the President and CEO, with responsibilities spanning engineering, innovation, quality, and mergers and acquisitions.
 
@@ -53,7 +53,7 @@ Accountable to the President and CEO, with responsibilities across development a
 - Supported business development and engagement with venture capital investors.
 - Contributed to a successful exit when a multinational medical services company acquired the business in 2015.
 
-## Academic appointments and teaching
+## Current Academic appointments and teaching
 
 ### Ashland University
 
@@ -61,17 +61,6 @@ Accountable to the President and CEO, with responsibilities across development a
 Ashland, Ohio · January 2026–present
 
 Teach and design classes in economics and commerce.
-
-### Lorain County Community College
-
-**Course design and teaching in data analytics**  
-Elyria, Ohio · January 2020–December 2025
-
-Designed hybrid and competency-based education courses for the Data Analytics curriculum in the Division of Engineering, Business and Information Technologies:
-
-- **DATA 101:** Introduction to Data Analytics
-- **DATA 210:** Big Data Analytics in R and Spark
-- **DATA 222:** Machine Learning
 
 ## Education
 

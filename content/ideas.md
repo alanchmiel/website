@@ -2,7 +2,7 @@
 {
   "title": "Ideas",
   "eyebrow": "Engineering the Decision",
-  "summary": "Essays on the assumptions between technical success and practical use."
+  "summary": "The assumptions between technical success and practical use."
 }
 ---
 

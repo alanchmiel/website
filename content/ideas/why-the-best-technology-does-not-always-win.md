@@ -3,7 +3,7 @@
   "title": "Why the Best Technology Does Not Always Win",
   "eyebrow": "Technology & adoption",
   "summary": "Technical merit is one part of a decision. Costs, perceived risk, and disruption determine what happens next.",
-  "date": "2026-10-06",
+  "date": "2026-08-06",
   "featured": true,
   "order": 1
 }

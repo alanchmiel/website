@@ -32,7 +32,7 @@ Human behavior shapes what people choose and use: risk, habits, trust, and organ
 
 ## Experience meets inquiry.
 
-My experience spans engineering leadership at R.W. Beckett, aerospace leadership at ZIN Technologies, biomedical development at FlexLife Health, and university teaching. My doctoral research at the University of Pittsburgh connects energy technology with market adoption.
+My experience spans engineering leadership in energy, aerospace and biomedical; and university teaching. My research connects energy technology with market adoption.
 
 I bring these perspectives to the same question: **what should we do next?**
 
