@@ -22,6 +22,7 @@ This work provides the foundation for my interest in how energy technology, econ
 
 My publication record includes work on space radiation effects, triaxial acceleration sensing, and lightweight temperature sensing for cryogenic propellants:
 
+- "Scarcity, Credits, and Biodiesel Pricing: Evidence from U. S. Renewable Fuel Markets." Available at SSRN
 - “Mobile Router Technology Investigated for Space Radiation Effects.” *NASA-GRC Research and Technology Report*, pp. 26–27; NASA/TM 2006-214016, 2006.
 - “Updated Space Acceleration Measurement System Triaxial Sensor: Design and Performance Characteristics.” AIAA 2003-1003, January 2003.
 - “Ultra Lightweight Flexible Sensing Probe Technology for Cryogenic Propellants.” AIAA 2000-3793, August 2000.
