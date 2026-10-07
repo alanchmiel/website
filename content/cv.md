@@ -78,6 +78,7 @@ University of Pittsburgh, Swanson School of Engineering
 
 ## Selected publications
 
+- "Scarcity, Credits, and Biodiesel Pricing: Evidence from U. S. Renewable Fuel Markets." Available at SSRN
 - “Mobile Router Technology Investigated for Space Radiation Effects.” *NASA-GRC Research and Technology Report*, pp. 26–27. NASA/TM 2006-214016, 2006.
 - “Updated Space Acceleration Measurement System Triaxial Sensor: Design and Performance Characteristics.” AIAA 2003-1003, January 2003.
 - “Ultra Lightweight Flexible Sensing Probe Technology for Cryogenic Propellants.” AIAA 2000-3793, August 2000.
