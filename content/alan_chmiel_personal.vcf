@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Chmiel;Alan;;Dr.;
+FN:Dr. Alan Chmiel
+TEL;TYPE=CELL:440-213-4671
+URL:https://drchmiel.com
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/alan-chmiel-444763a/
+EMAIL;TYPE=WORK:alan.chmiel@gmail.com
+
+END:VCARD

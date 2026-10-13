@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Chmiel;Alan;;Dr.;
+FN:Dr. Alan Chmiel
+URL:https://drchmiel.com
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/alan-chmiel-444763a/
+TEL;TYPE=CELL:440-213-4671
+ORG:University of Maryland Global Campus
+TITLE:Adjunct Associate Professor
+EMAIL;TYPE=WORK:alan.chmiel@faculty.umgc.edu
+END:VCARD
